@@ -1,0 +1,13 @@
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\bin\Debug\Mikulas.exe.config
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\bin\Debug\Mikulas.exe
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\bin\Debug\Mikulas.pdb
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.csprojAssemblyReference.cache
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.Properties.Resources.resources
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.csproj.GenerateResource.cache
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.csproj.CoreCompileInputs.cache
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.exe
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.pdb
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.csomagBuilder.resources
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.frmOsztaly.resources
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.frmSorsolas.resources
+C:\Users\tiggr\Desktop\Mikulas\Mikulas\obj\Debug\Mikulas.frmMain.resources
